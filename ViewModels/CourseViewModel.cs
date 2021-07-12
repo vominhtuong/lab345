@@ -14,6 +14,8 @@ namespace BigSchool.ViewModels
         [Required]
         [FutureDate]
         public string Date { get; set; }
+        [Required]
+        [ValidTime]
         public string Time { get; set; }
         public byte Category { get; set; }
         public IEnumerable<Category> Categories { get; set; }
