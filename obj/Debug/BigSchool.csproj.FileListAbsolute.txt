@@ -119,3 +119,4 @@ C:\Users\MINH TUONG\source\repos\BigSchool\bin\System.Net.Http.Formatting.xml
 C:\Users\MINH TUONG\source\repos\BigSchool\bin\System.Web.Http.xml
 C:\Users\MINH TUONG\source\repos\BigSchool\bin\System.Web.Http.WebHost.xml
 C:\Users\MINH TUONG\source\repos\BigSchool\obj\Debug\BigSchool.Migrations.addFollowingsTable.resources
+C:\Users\MINH TUONG\source\repos\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
